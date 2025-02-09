@@ -68,9 +68,3 @@ I am always open to collaborations, mentorship opportunities, and discussions on
 
 ## 🚀 Let’s Connect!
 Feel free to explore my repositories, star projects that interest you, and let’s connect! I’m eager to collaborate on exciting projects and share knowledge. 🌟
-
----
-
-This README incorporates your background, skills, and current work experience in a concise and professional way, making it suitable for any potential collaborators or employers who visit your profile.
-
-Let me know if you'd like any changes or additions!
